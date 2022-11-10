@@ -12,8 +12,12 @@
 				"Costs [1] gold per turn when in your territory"],
 	},
 	{
-		"name": "Coffee Hacienda ",
+		"name": "Hacienda Cafetera",
 		"uniqueTo": "Colombia",
+		"production": 1,
+		"gold": 1,
+		"food": 1,
+		"cuture": 1,
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"uniques": ["[+1 Food] for each adjacent [Plantation]","Provides [1] [Coffee]",
 			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles",
