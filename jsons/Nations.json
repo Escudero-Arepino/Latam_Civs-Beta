@@ -3,8 +3,8 @@
                 "name": "Argentina",
 		"leaderName": "Julio Roca",
 		"adjective": ["Argentine"],
-		"outerColor": [116, 172, 223],
-		"innerColor": [248, 202, 86],
+		"outerColor": [87, 129, 167],
+		"innerColor": [252, 209, 22],
 		"spyNames": ["Juan"],
 
 		"startBias": ["Plains"],
@@ -143,8 +143,8 @@
 		"name": "Chile",
 		"leaderName": "Bernard O´Higgins",
 		"adjective": ["Chilean"],
-		"outerColor": [215, 53, 41],
-		"innerColor": [28, 28, 95],
+		"outerColor": [239, 52, 52],
+		"innerColor": [104, 38, 11],
 		"spyNames": ["Juan"],
 
 		"startBias": ["Coast", "Desert"],
@@ -237,7 +237,7 @@
                 "leaderName": "Juan Mora Porras",
                 "adjective": ["Tico"],
                 "outerColor": [67,48,89],
-                "innerColor": [241,56,79],
+                "innerColor": [221, 47, 102],
 		"spyNames": ["Juan"],
 
                 "startBias": ["Coast","Jungle","Mountain"],
@@ -276,7 +276,7 @@
 		"name": "Cuba",
 		"leaderName": "Fidel Castro",
 		"adjective": ["Cuban"],
-		"outerColor": [122, 199, 207],
+		"outerColor": [36, 140, 164],
 		"innerColor": [142, 9, 9],
 		"spyNames": ["Castro","El Loco","El Ché"],
 
@@ -425,6 +425,46 @@
 			{"text": ""}
 		]
      },
+	 {
+		"name": "Honduras",
+		"leaderName": "Francisco Mozaran",
+		"adjective": ["Honduran"],
+		"outerColor": [39, 82, 116],
+		"innerColor": [242, 231, 212],
+		"spyNames": ["Juancho"],
+
+		"startBias": ["Jungle"],
+        "preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"introduction": "",
+		"declaringWar": "",
+		"attacked": "",
+		"afterPeace": "",
+		"defeated": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"uniqueName": "Banana Capital",
+                "uniques": ["[+2 Production, +2 Gold] from [Bananas] tiles [in all cities]","[+1 Production, +1 Culture, +1 Food] from [All] tiles [in all cities] <with [1] to [6] neighboring [Bananas] tiles>"],
+
+        "cities": ["Tegusigalpa"],
+
+		"civilopediaText": [
+			{"text": ""},
+			{"text": ""},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": ""},
+			{"text": ""}
+		]
+             },
 	{
                 "name": "Mexico",
 		"leaderName": "Benito Juarez",
@@ -558,8 +598,8 @@
 		"name": "Peru",
                 "leaderName": "Martin Vizcarra",
 		"adjective": "Peruvian",
-		"outerColor": [217,16,35],
-		"innerColor": [255,255,255],
+		"outerColor": [204, 0, 0],
+		"innerColor": [242, 231, 212],
 		"spyNames": ["Pedro"],
 
 		"startBias": ["Hill","Coast"],
@@ -636,7 +676,7 @@
 			"[+1 Production] from [All] tiles [in all cities] <with [1] to [6] neighboring [Oil] tiles>", 
 			"[-50]% maintenance on road & railroads <with [Oil]>",
 			"[-15]% maintenance cost for buildings [in all cities] <with [Oil]>",
-			"Receive free [Great General] when you discover [Military Science]"],
+			"Free [Great General] appears <upon discovering [Military Science]>"],
     
                 "cities": ["Caracas","Maracaibo","Valencia","Barquisimeto","Guyana City","Merida","Valera","Bolivar City","St. Cristobal","Angostura","Barcelona","Maracay","Barinas","Mantecal","Guasdualito","Maturin","Porlamar","Puerto la Cruz","Cumana","Cabimas","Punto Fijo","Acarigua","Los Teques","Coro","Guanare","Ojeda City","Puerto Cabello","Guarenas","Guatire","Turmero","Tocuyito","El Trige","Carora"]
 		"civilopediaText": [
